@@ -1,3 +1,3 @@
 #!/bin/sh
-docker build --pull -t telesphoreo/redis:7 .
-docker push telesphoreo/redis:7
+docker build --pull -t docker.telesphoreo.me/redis:7 .
+docker push docker.telesphoreo.me/redis:7

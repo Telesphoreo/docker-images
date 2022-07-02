@@ -1,3 +1,3 @@
 #!/bin/sh
-docker build --pull -t telesphoreo/mongodb:latest .
-docker push telesphoreo/mongodb:latest
+docker build --pull -t docker.telesphoreo.me/mongodb:latest .
+docker push docker.telesphoreo.me/mongodb:latest
